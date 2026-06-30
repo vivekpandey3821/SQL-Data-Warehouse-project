@@ -22,7 +22,7 @@ Usage Example:
 
 /*============================================================
   CRM Tables
-============================================================*
+============================================================*/
 
 -- Recreate the customer information table
 IF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
